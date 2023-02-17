@@ -1,0 +1,2 @@
+# FingerCounter
+fingerCounter using Opencv
